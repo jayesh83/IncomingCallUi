@@ -7,4 +7,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="call_accept_cta_color">#ff00dd6a</color>
+    <color name="call_reject_cta_color">#fff53c3c</color>
+    <color name="call_accept_reject_arrow_color">#ffe2e2e2</color>
 </resources>

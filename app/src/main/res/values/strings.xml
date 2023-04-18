@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">IncomingCallUi</string>
+    <string name="message">Message</string>
+    <string name="increase_count">Increase count</string>
+    <string name="remaining">Remaining</string>
+    <string name="reply_with_msg">Reply with message</string>
+    <string name="slide_up">Slide up</string>
 </resources>
